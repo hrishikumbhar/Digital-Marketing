@@ -1,4 +1,4 @@
-# Assignment 1
+# Project 4 :- Digital Marketing
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -8,7 +8,6 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-# Project 4 
 
 ### What I Learned from this Project?
 
@@ -17,6 +16,8 @@
 
 ### This project took around 2 hours to complete.
 
-### Screenshot
+### Project Link : [Link](https://digital-marketing-dashboard.netlify.app/)
+
+### Screenshot :
 
 ![](./screenshot/PRoj4.png)
